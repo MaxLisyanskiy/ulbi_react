@@ -11,9 +11,12 @@
 }
 
 .App {
-  width: 800px;
+  width: 500px;
 }
 
+h2 {
+  text-align: center;
+}
 .post {
   display: flex;
   padding: 15px;
